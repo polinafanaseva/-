@@ -15,9 +15,9 @@
 * Мой любимый сериал - *Ходячие Мертвецы*. \*Трейлер сериала можно посмотреть [здесь][2].\* 
 * * *
 ## Как со мной связаться:
- 1. [вконтакте](hhtp://www.vk.com/polinaaf/)
- 2. [инстаграм](hhtp://www.instagram.com/tiskau_tornado/)
- 3. [телеграм](hhtp://t.me/polinafanaseva/)
+ 1. [вконтакте](http://www.vk.com/polinaaf/)
+ 2. [инстаграм](http://www.instagram.com/tiskau_tornado/)
+ 3. [телеграм](http://t.me/polinafanaseva/)
   
 По урлу <http://rukeba.com/> находится мой сайт.
  Это простая [ссылка](http://rukeba.com/) в тексте.
