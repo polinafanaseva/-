@@ -20,7 +20,8 @@
  3. [телеграм](hhtp://t.me/polinafanaseva/)
   
 По урлу <http://rukeba.com/> находится мой сайт.
- 
+ Это простая [ссылка](http://rukeba.com/) в тексте.
+Это [ссылка](http://rukeba.com/ "Титул") с аттрибутом title.
 
  
  [1]: https://www.youtube.com/watch?v=ibqIWYqzG7w/ "Великий Гэтсби"
