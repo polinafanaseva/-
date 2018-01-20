@@ -39,6 +39,9 @@
  1. [Вконтакте;](https://vk.com/polinaaf)
  2. [Инстаграм;](http://www.instagram.com/tiskau_tornado/)
  3. [Телеграм.](http://t.me/polinafanaseva/)
+ ***
+      Я очень открытый и общительный человек !
+ 
 
 
  [1]: https://en.wikipedia.org/wiki/Al_Pacino "Аль Пачино"
