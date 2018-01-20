@@ -5,7 +5,7 @@
 
 ------
 ## У меня есть много разных увлечений:
-+ \*Плавание\* 
++ \*Плавание.\*
  1.[ссылка в вконтакте](hhtp://www.vk.com/polinaaf/)
  2.[ссылка в инстаграме](hhtp://www.instagram.com/tiskau_tornado/)
  3.[ссылка в телеграме](hhtp://t.me/polinafanaseva/)
